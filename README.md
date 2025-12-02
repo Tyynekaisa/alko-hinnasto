@@ -1,6 +1,6 @@
 # Alko hinnasto
 
-Kurssi: AT00BX89-3010 Web ja peliteknologian perusteet
+Kurssi: AT00BX89-3010 Web ja peliteknologian perusteet  
 Tekijä: Anna-Kaisa Juhola
 
 [Hinnasto](https://niisku.lab.fi/~tyynekaisa/alko/)
