@@ -1,0 +1,68 @@
+@import "https://fonts.googleapis.com/css?family=Fauna+One|Montserrat|Great+Vibes";
+
+h1 {
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px !important;
+    color: #789aa0;
+    margin-bottom: -15px;
+}
+
+h3 {
+    font-family: Montserrat, sans-serif;
+    color: #789aa0;
+}
+    
+body {
+    background-color: #99bfc6 !important;
+}
+
+.container-fluid {
+    background-color: white;
+    width: 85%;
+}
+
+table {
+    margin: 0 0 50px 0 !important;
+}
+
+button, #submit {
+    background-color: #789aa0 !important;
+    border: none !important;
+    transition: 0.3s ease;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: Montserrat, sans-serif;
+    font-weight: lighter;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+button:hover, button:active, button:focus,
+#submit:hover, #submit:active, #submit:focus {
+    background-color: #a9c9cf !important;
+    border: none !important;
+    outline: none;
+}
+
+.page-item.active .page-link {
+    background-color: #f2a365;
+    border-color: #f2a365;
+}
+
+.page-link {
+    color: #789aa0;
+}
+
+.page-link:hover {
+    color: #789aa0;
+}
+
+.page-link:focus {
+    outline: none;
+}
