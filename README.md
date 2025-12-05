@@ -6,7 +6,7 @@ Tekijä: Kaisa Juhola
 
 [Hinnasto](https://niisku.lab.fi/~tyynekaisa/alko/)
 
-![Kuvakaappaus hinnastosta](images/kuvakaappaus.png)
+![Kuvakaappaus hinnastosta](images/kuvakaappaus1.png)
 
 ## Toiminnallisuudet
 
